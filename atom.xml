@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>王子文</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://ziwen52.github.io/</id>
+  <link href="https://ziwen52.github.io/" rel="alternate"/>
+  <link href="https://ziwen52.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 王子文</rights>
+  <subtitle>
+    <![CDATA[技术 & 生活]]>
+  </subtitle>
+  <title>王子文的博客</title>
+  <updated>2026-09-19T15:24:59.154Z</updated>
+  <entry>
+    <author>
+      <name>王子文</name>
+    </author>
+    <category term="开发" scheme="https://ziwen52.github.io/categories/%E5%BC%80%E5%8F%91/"/>
+    <content>
+      <![CDATA[<p>开发微信小程序</p>]]>
+    </content>
+    <id>https://ziwen52.github.io/2026/09/19/2026-09-19-post/</id>
+    <link href="https://ziwen52.github.io/2026/09/19/2026-09-19-post/"/>
+    <published>2026-09-19T14:11:54.000Z</published>
+    <summary>
+      <![CDATA[<p>开发微信小程序</p>]]>
+    </summary>
+    <title>开发微信程序</title>
+    <updated>2026-09-19T15:24:59.154Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>王子文</name>
+    </author>
+    <category term="记录" scheme="https://ziwen52.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    <content>
+      <![CDATA[<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><p>开发微信小程序，名为TinyWin,</p><h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p>可以创建任务打卡，形成每日打卡记录，养成良好习惯，可以创建不同的任务，然后进行打卡</p><h2 id="现况"><a href="#现况" class="headerlink" title="现况"></a>现况</h2><p>构建好第一版，初步跑通，最基本功初步跑通，简单修改了一下界面UI</p><p><img src="/images/uploads/1789758903761-_____2026-09-19_031450.png"></p><p><img src="/images/uploads/1789758925608-_____2026-09-19_031518.png"></p>]]>
+    </content>
+    <id>https://ziwen52.github.io/2026/09/18/2026-09-19-w/</id>
+    <link href="https://ziwen52.github.io/2026/09/18/2026-09-19-w/"/>
+    <published>2026-09-18T19:15:31.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><p>开发微信小程序，名为TinyWin,</p>
+<h2 id="功能"><a href="#功能" class="headerlink" ti]]>
+    </summary>
+    <title>开发微信小程序（TinyWin）</title>
+    <updated>2026-09-19T15:24:59.155Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>王子文</name>
+    </author>
+    <category term="随笔" scheme="https://ziwen52.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="博客" scheme="https://ziwen52.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="开始" scheme="https://ziwen52.github.io/tags/%E5%BC%80%E5%A7%8B/"/>
+    <content>
+      <![CDATA[<p>欢迎来到我的个人博客！</p><p>这是我用 <a href="https://hexo.io/">Hexo</a> 搭建、部署在 GitHub Pages 上的小站。这里会记录：</p><ul><li><strong>技术</strong>：编程学习、项目实战、工具分享</li><li><strong>生活</strong>：阅读、旅行、日常感悟</li><li><strong>项目</strong>：自己做的一些小玩意儿</li></ul><h2 id="为什么建这个博客"><a href="#为什么建这个博客" class="headerlink" title="为什么建这个博客"></a>为什么建这个博客</h2><p>一方面是记录自己的成长轨迹——很多知识学了不用很快就忘了，写下来是最好的巩固方式。另一方面也希望能与读到这里的你产生一些连接，哪怕只是一行代码的启发或者一段文字的共鸣。</p><p>博客会持续更新，欢迎常来看看。如果你有什么想聊的，可以在 GitHub 上找我。</p><hr><p><em>2026 年 7 月 19 日</em></p>]]>
+    </content>
+    <id>https://ziwen52.github.io/2026/07/19/welcome/</id>
+    <link href="https://ziwen52.github.io/2026/07/19/welcome/"/>
+    <published>2026-07-19T09:30:00.000Z</published>
+    <summary>
+      <![CDATA[<p>欢迎来到我的个人博客！</p>
+<p>这是我用 <a href="https://hexo.io/">Hexo</a> 搭建、部署在 GitHub Pages 上的小站。这里会记录：</p>
+<ul>
+<li><strong>技术</strong>：编程学习、项目实战、工具]]>
+    </summary>
+    <title>博客开张</title>
+    <updated>2026-07-19T09:37:05.928Z</updated>
+  </entry>
+</feed>
